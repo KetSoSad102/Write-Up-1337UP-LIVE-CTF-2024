@@ -52,8 +52,11 @@ Nhận thấy điểm chung giữa 2 dòng trên của mỗi ảnh và 2 dòng d
 ### Điểm chung 1
 Đó là đều nằm trong string **>CHAR(<mã ASCII>)**
 Em đã viết source để ghép các kí tự có mã ASCII nằm trong string trên và nằm trên các dòng ở giữa 4 dòng em vừa tìm thấy.
+
 ![image](https://hackmd.io/_uploads/Sy9qM2Dfkx.png)   
+
 Nhưng kết quả thì lại không được như mong muốn!
+
 ![image](https://hackmd.io/_uploads/HJOaz2DzJg.png)
 
 ### Điểm chung 2
