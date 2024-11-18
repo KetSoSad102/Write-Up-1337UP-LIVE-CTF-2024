@@ -1,7 +1,3 @@
----
-title: 1337UP LIVE CTF
-
----
 
 # 1337UP LIVE CTF
 Ở cuộc thi **1337UP LIVE CTF** vừa được tổ chức, em đã solved được 2 challange Forensics là **CTF Mind Tricks** và **Logging**. Sau đây em xin trình bày cách làm của mình ở 2 bài trên.
